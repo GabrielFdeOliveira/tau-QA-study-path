@@ -1,0 +1,15 @@
+{
+  "name": "tau-hello-mocha",
+  "version": "1.0.0",
+  "description": "introduction-to-mocha",
+  "main": "helloMocha.js",
+  "scripts": {
+    "test": "mocha helloMocha.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^2.1.0",
+    "mocha": "^10.3.0"
+  }
+}
